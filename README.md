@@ -6,6 +6,7 @@ This project contains assignment 1 and assignment 2, in which assignment 2 is th
 The instruction of assigment 1 can be found at *001dba_Assignment.pdf*; while instruction of assigment 2 can be found at *002dba_assignment.pdf*
 
 *assigment1-report.pdf* explains the business rules and ERD of a clinic management system. 
+*Please note that the ERD in report1 has a few mistakes which are then corrected in report2.*
 
 *assigment2-report.pdf* contains:
 1. Corrected and Normalized ERD from assignment 1
